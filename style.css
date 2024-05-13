@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(234, 223, 255);
+    border: solid;
+}
+label{
+    color: black;
+    font-size: 27px;
+}
+input{
+    background-color: rgb(241, 250, 121);
+    color: blue;
+    text-align: left;
+}
+button{
+    height: 40px;
+    width: 140px;
+    color: rgb(0, 0, 0);
+    margin-left: 30%;
+    margin-bottom: 0%;
+    background-color: rgb(58, 58, 250);
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
